@@ -3,7 +3,7 @@
 
     <string name="app_name">GoEuro</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello Euro</string>
+    <string name="hello_world">Hello Euro world</string>
     <string name="from_label">from</string>
 
 </resources>

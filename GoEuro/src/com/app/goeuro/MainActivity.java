@@ -77,7 +77,7 @@ public class MainActivity extends FragmentActivity implements OnClickListener,
 	@Override
 	protected void onResume() {
 		super.onResume();
-		// Get the location manager
+		
 		locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
 		// Define the criteria how to select the locatioin provider -> use default
 		Criteria criteria = new Criteria();
